@@ -1,0 +1,31 @@
+
+.containner {
+  background-color: white;
+  height: 1000px;
+  width: 50%;
+  margin: 0px 350px;
+}
+.heading
+{
+ text-align:center;
+ color: black;
+ background-color:grey;
+}
+.content
+{
+text-align: left;
+color: black;
+background-color: white;
+}
+.hide
+{
+text-align: left;
+color: black;
+background-color: grey;
+height: 50px;
+}
+.delete
+{
+color: black;
+background-color: blue;
+}
